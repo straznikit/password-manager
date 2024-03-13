@@ -29,7 +29,7 @@ Python 3.12
 1. Clone the repository to your local machine:
 
 ```python
-git clone <repository-url>
+git clone [(https://github.com/straznikit/password-manager)]
 ```
 2. Run the script and start generating and managing your passwords securely.
 
