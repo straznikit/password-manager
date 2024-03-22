@@ -14,11 +14,11 @@ User-Friendly Interface: The script offers a simple and intuitive interface, mak
 
 ## Usage:
 
-Run the script and follow the prompts to generate a new password or manage existing passwords.
+1. Run the script and follow the prompts to generate a new password or manage existing passwords.
 
-Generated passwords are saved in a designated file, ensuring secure storage and easy retrieval.
+2. Generated passwords are saved in a designated file, ensuring secure storage and easy retrieval.
 
-Utilize the generated passwords for various accounts and platforms, enhancing security practices and safeguarding sensitive information.
+3. Utilize the generated passwords for various accounts and platforms, enhancing security practices and safeguarding sensitive information.
 
 ## Dependencies:
 
