@@ -21,9 +21,7 @@ User-Friendly Interface: The script offers a simple and intuitive interface, mak
 3. Utilize the generated passwords for various accounts and platforms, enhancing security practices and safeguarding sensitive information.
 
 ## Dependencies:
-
 Python 3.12
-
 ## Getting Started:
 
 1. Clone the repository to your local machine:
