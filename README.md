@@ -11,7 +11,6 @@ Password Storage: Generated passwords are saved in a separate file, ensuring con
 File Encryption: The password file is encrypted using industry-standard encryption techniques, providing an additional layer of security to protect sensitive information.
 
 User-Friendly Interface: The script offers a simple and intuitive interface, making it easy for users to generate, store, and manage their passwords efficiently.
-
 ## Usage:
 
 1. Run the script and follow the prompts to generate a new password or manage existing passwords.
